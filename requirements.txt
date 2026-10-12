@@ -1,3 +1,9 @@
+
+streamlit
+numpy
 faiss-cpu
 python-dotenv
 pypdf
+google-genai
+reportlab
+
